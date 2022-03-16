@@ -27,3 +27,22 @@ var questionOne = prompt(
 );
 document.getElementById("blankFive").innerHTML = questionOne;
 
+var numNumber;
+
+
+numNumber = 5;
+
+
+var newVariable;
+
+newVariable = numNumber;
+
+console.log(newVariable);
+
+var myName = "ChrisLo";
+console.log(myName);
+
+var theMonth = "March";
+var theYear = 2022;
+
+console.log(theMonth + theYear);
